@@ -1,0 +1,28 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter autosave checkpoints
+.ipynb_checkpoints/
+
+# VS Code and other editor settings
+.vscode/
+.idea/
+
+# Environment variables / secrets
+.env
+
+# Operating-system generated files
+.DS_Store
+Thumbs.db
+
+# Large raw data files - keep dataset out of GitHub
+data/
+*.csv
