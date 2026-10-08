@@ -3,10 +3,7 @@
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-1.6.1-F7931E)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-REST%20API-009688)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-1.6.1-F7931E)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+
 
 # House Price Prediction API
 
